@@ -1,0 +1,6 @@
+
+pandas
+openpyxl
+snowflake-connector-python
+python-dotenv
+pytest
