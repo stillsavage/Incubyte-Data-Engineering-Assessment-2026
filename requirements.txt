@@ -4,3 +4,4 @@ openpyxl
 snowflake-connector-python
 python-dotenv
 pytest
+snowflake-connector-python[pandas]
